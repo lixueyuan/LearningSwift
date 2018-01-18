@@ -14,6 +14,15 @@
 		64812B14201097C5009901E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64812B12201097C5009901E9 /* LaunchScreen.storyboard */; };
 		64812B1F201097C5009901E9 /* CollectionView_sariTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64812B1E201097C5009901E9 /* CollectionView_sariTests.swift */; };
 		64812B2A201097C6009901E9 /* CollectionView_sariUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64812B29201097C6009901E9 /* CollectionView_sariUITests.swift */; };
+		64812B522010A32D009901E9 /* 到店地图(2).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B492010A32C009901E9 /* 到店地图(2).png */; };
+		64812B532010A32D009901E9 /* 电话挂机.png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4A2010A32C009901E9 /* 电话挂机.png */; };
+		64812B542010A32D009901E9 /* 到店地图(4).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4B2010A32C009901E9 /* 到店地图(4).png */; };
+		64812B552010A32D009901E9 /* 到店地图(3).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4C2010A32C009901E9 /* 到店地图(3).png */; };
+		64812B562010A32D009901E9 /* 到店地图(7).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4D2010A32D009901E9 /* 到店地图(7).png */; };
+		64812B572010A32D009901E9 /* 到店地图(5).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4E2010A32D009901E9 /* 到店地图(5).png */; };
+		64812B582010A32D009901E9 /* 到店地图(1).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B4F2010A32D009901E9 /* 到店地图(1).png */; };
+		64812B592010A32D009901E9 /* 到店地图.png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B502010A32D009901E9 /* 到店地图.png */; };
+		64812B5A2010A32D009901E9 /* 到店地图(6).png in Resources */ = {isa = PBXBuildFile; fileRef = 64812B512010A32D009901E9 /* 到店地图(6).png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		64812B25201097C6009901E9 /* CollectionView_sariUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionView_sariUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		64812B29201097C6009901E9 /* CollectionView_sariUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView_sariUITests.swift; sourceTree = "<group>"; };
 		64812B2B201097C6009901E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64812B492010A32C009901E9 /* 到店地图(2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(2).png"; sourceTree = "<group>"; };
+		64812B4A2010A32C009901E9 /* 电话挂机.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "电话挂机.png"; sourceTree = "<group>"; };
+		64812B4B2010A32C009901E9 /* 到店地图(4).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(4).png"; sourceTree = "<group>"; };
+		64812B4C2010A32C009901E9 /* 到店地图(3).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(3).png"; sourceTree = "<group>"; };
+		64812B4D2010A32D009901E9 /* 到店地图(7).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(7).png"; sourceTree = "<group>"; };
+		64812B4E2010A32D009901E9 /* 到店地图(5).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(5).png"; sourceTree = "<group>"; };
+		64812B4F2010A32D009901E9 /* 到店地图(1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(1).png"; sourceTree = "<group>"; };
+		64812B502010A32D009901E9 /* 到店地图.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图.png"; sourceTree = "<group>"; };
+		64812B512010A32D009901E9 /* 到店地图(6).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "到店地图(6).png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +115,15 @@
 		64812B08201097C5009901E9 /* CollectionView_sari */ = {
 			isa = PBXGroup;
 			children = (
+				64812B502010A32D009901E9 /* 到店地图.png */,
+				64812B4F2010A32D009901E9 /* 到店地图(1).png */,
+				64812B492010A32C009901E9 /* 到店地图(2).png */,
+				64812B4C2010A32C009901E9 /* 到店地图(3).png */,
+				64812B4B2010A32C009901E9 /* 到店地图(4).png */,
+				64812B4E2010A32D009901E9 /* 到店地图(5).png */,
+				64812B512010A32D009901E9 /* 到店地图(6).png */,
+				64812B4D2010A32D009901E9 /* 到店地图(7).png */,
+				64812B4A2010A32C009901E9 /* 电话挂机.png */,
 				64812B09201097C5009901E9 /* AppDelegate.swift */,
 				64812B0B201097C5009901E9 /* ViewController.swift */,
 				64812B0D201097C5009901E9 /* Main.storyboard */,
@@ -233,8 +260,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				64812B14201097C5009901E9 /* LaunchScreen.storyboard in Resources */,
+				64812B582010A32D009901E9 /* 到店地图(1).png in Resources */,
+				64812B5A2010A32D009901E9 /* 到店地图(6).png in Resources */,
 				64812B11201097C5009901E9 /* Assets.xcassets in Resources */,
+				64812B592010A32D009901E9 /* 到店地图.png in Resources */,
+				64812B542010A32D009901E9 /* 到店地图(4).png in Resources */,
+				64812B562010A32D009901E9 /* 到店地图(7).png in Resources */,
+				64812B522010A32D009901E9 /* 到店地图(2).png in Resources */,
+				64812B552010A32D009901E9 /* 到店地图(3).png in Resources */,
+				64812B532010A32D009901E9 /* 电话挂机.png in Resources */,
 				64812B0F201097C5009901E9 /* Main.storyboard in Resources */,
+				64812B572010A32D009901E9 /* 到店地图(5).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -52,6 +52,10 @@ class ViewController: UIViewController {
                 return
             }
             print(dic)
+            let all: Double! = ((dic["clouds"] as! NSDictionary) ["all"]) as! Double
+            print(all)
+            let message: Double! = (dic["sys"] as! NSDictionary) ["message"] as! Double
+            print(message)
         }).resume()
     }
 }

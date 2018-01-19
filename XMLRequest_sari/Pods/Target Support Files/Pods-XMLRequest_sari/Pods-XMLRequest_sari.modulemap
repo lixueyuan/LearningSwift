@@ -1,0 +1,6 @@
+framework module Pods_XMLRequest_sari {
+  umbrella header "Pods-XMLRequest_sari-umbrella.h"
+
+  export *
+  module * { export * }
+}

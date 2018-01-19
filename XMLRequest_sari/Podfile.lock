@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.6.0)
+  - SexyJson (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - SexyJson
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  SexyJson: 4efdebb8e6e22768a41c6c8a7d90256f083fb48a
+
+PODFILE CHECKSUM: 6960482131e7e915c7ff11963d33e1cf291dc026
+
+COCOAPODS: 1.4.0.beta.2

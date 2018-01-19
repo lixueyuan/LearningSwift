@@ -8,6 +8,7 @@ target 'XMLRequest_sari' do
 # Net
 
 pod 'Alamofire', '~> 4.5'
-pod 'SexyJson'
+
+pod 'SwiftyJSON'
 
 end

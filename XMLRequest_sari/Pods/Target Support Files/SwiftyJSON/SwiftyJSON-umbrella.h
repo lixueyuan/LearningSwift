@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double SexyJsonVersionNumber;
-FOUNDATION_EXPORT const unsigned char SexyJsonVersionString[];
+FOUNDATION_EXPORT double SwiftyJSONVersionNumber;
+FOUNDATION_EXPORT const unsigned char SwiftyJSONVersionString[];
 

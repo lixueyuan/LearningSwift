@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "417600A7232127D240DC2220E5CCC1F6"
+               BlueprintIdentifier = "9BC9943016E2A60E266FA08F603737FE"
                BuildableName = "Pods_XMLRequest_sari.framework"
                BlueprintName = "Pods-XMLRequest_sari"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "417600A7232127D240DC2220E5CCC1F6"
+            BlueprintIdentifier = "9BC9943016E2A60E266FA08F603737FE"
             BuildableName = "Pods_XMLRequest_sari.framework"
             BlueprintName = "Pods-XMLRequest_sari"
             ReferencedContainer = "container:Pods.xcodeproj">
